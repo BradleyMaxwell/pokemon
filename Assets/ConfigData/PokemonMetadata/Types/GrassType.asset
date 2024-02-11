@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c6541a2d2020c4fd4a3cacac1d5450bc, type: 3}
+  m_Name: GrassType
+  m_EditorClassIdentifier: 
+  typeName: Grass
+  typeColor: {r: 0.47843137, g: 0.78039217, b: 0.29803923, a: 0}
+  moveTypeEffectiveness: {fileID: 11400000, guid: 327c1725093d945a1abacf60d02e98b2, type: 2}

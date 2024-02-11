@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 444d96a5e89fa40649adb07951ac05c3, type: 3}
+  m_Name: WaterMoveEffectiveness
+  m_EditorClassIdentifier: 
+  superEffective:
+  - {fileID: 11400000, guid: 84631dd73437d44dbb4522f6fbff43c8, type: 2}
+  notVeryEffective:
+  - {fileID: 11400000, guid: 973d830cb78a542129d5de4cfd77e0c2, type: 2}
+  - {fileID: 11400000, guid: 68d6b202d5cd14a5f883af86ff110598, type: 2}
+  noEffect: []
