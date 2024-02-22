@@ -1,9 +1,14 @@
+using UnityEngine;
+
 [System.Serializable]
 public class PokemonLevelInfo
 {
-    public int Level { get; set; }
+    [SerializeField]
+    private int level;
 
-    public int CurrentExperiencePoints { get; set; }
+    [SerializeField]
+    private int currentExperiencePoints;
 
-    public int ExperienceToNextLevel { get; set; }
+    [SerializeField]
+    private int experienceToNextLevel;
 }
