@@ -9,15 +9,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6687e80053652444aa455e2670724c1a, type: 3}
-  m_Name: ChimcharBattleStats
+  m_Script: {fileID: 11500000, guid: 312b45b52d1af4811bbdcbc329c66970, type: 3}
+  m_Name: ChimcharSpecies
   m_EditorClassIdentifier: 
-  hitPoints: 0
-  attack: 0
-  defense: 0
-  specialAttack: 0
-  specialDefense: 0
-  speed: 0
-  evasiveness: 0
-  pokemonTypes:
+  name: Chimchar
+  tag: Chimp
+  type:
   - {fileID: 11400000, guid: 84631dd73437d44dbb4522f6fbff43c8, type: 2}
+  heightFeet: 1
+  heightInches: 8
+  weight: 13.7
+  description: It agilely scales sheer cliffs to live atop craggy mountains. Its
+    fire is put out when it sleeps.

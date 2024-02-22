@@ -51,5 +51,8 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "pokemon.sln"
+    "dotnet.defaultSolution": "pokemon.sln",
+    "cSpell.words": [
+        "pokedex"
+    ]
 }
