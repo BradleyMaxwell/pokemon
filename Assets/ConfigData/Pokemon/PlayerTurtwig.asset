@@ -15,6 +15,10 @@ MonoBehaviour:
   pokemonSpecies: {fileID: 11400000, guid: 68975cd95290b4214911153c5d02498b, type: 2}
   nickname: Leafy
   gender: 0
+  pokemonLevelInfo:
+    level: 5
+    currentExperiencePoints: 0
+    experienceToNextLevel: 0
   battleMoves:
   - {fileID: 11400000, guid: d2e25b7455e48464a96affbc8b0545b5, type: 2}
   - {fileID: 11400000, guid: cd3c6fa0856f947de874873d3481479f, type: 2}

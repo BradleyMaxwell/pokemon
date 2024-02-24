@@ -15,6 +15,10 @@ MonoBehaviour:
   pokemonSpecies: {fileID: 11400000, guid: 380db3c8ccdbe470ea3786d4c2c73c6d, type: 2}
   nickname: Sizzler
   gender: 1
+  pokemonLevelInfo:
+    level: 5
+    currentExperiencePoints: 0
+    experienceToNextLevel: 0
   battleMoves:
   - {fileID: 11400000, guid: a481c26cb9f4948d8b9c862cca1daf81, type: 2}
   - {fileID: 11400000, guid: 6a2df9977dc0444cbb12f231ae378ed0, type: 2}
