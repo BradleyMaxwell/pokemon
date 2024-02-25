@@ -26,4 +26,14 @@ public class PokemonSpecies : ScriptableObject
     [SerializeField]
     [TextArea]
     private string description;
+
+    [SerializeField]
+    private BattleStats baseStats;
+    public BattleStats BaseStats
+    {
+        get
+        {
+            return baseStats;
+        }
+    }
 }

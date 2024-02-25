@@ -21,3 +21,4 @@ MonoBehaviour:
   weight: 11.5
   description: Because it is very proud, it hates accepting food from people. Its
     thick down guards it from cold.
+  baseStats: {fileID: 11400000, guid: 4e393ee4f550f4982b82778828799d1c, type: 2}

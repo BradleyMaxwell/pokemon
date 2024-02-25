@@ -21,3 +21,4 @@ MonoBehaviour:
   weight: 13.7
   description: It agilely scales sheer cliffs to live atop craggy mountains. Its
     fire is put out when it sleeps.
+  baseStats: {fileID: 11400000, guid: 796bb3a27b2e54675a5afd5237cbdfcb, type: 2}
