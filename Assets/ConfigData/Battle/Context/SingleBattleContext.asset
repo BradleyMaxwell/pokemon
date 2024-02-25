@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2c27aa76039034c39864f4577ba7353a, type: 3}
   m_Name: SingleBattleContext
   m_EditorClassIdentifier: 
-  playerBattleInfo: {fileID: 0}
-  opponentBattleInfo: {fileID: 0}
+  playerBattleInfo: {fileID: 11400000, guid: b410cb8a99bb14d78896c3c7562e4d03, type: 2}
+  opponentBattleInfo: {fileID: 11400000, guid: d5c4c3d005139413881af9d80edef146, type: 2}
