@@ -1093,6 +1093,10 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8026957550961229323, guid: 99d702fcfd052483e99495024a53a63d, type: 3}
+      propertyPath: battleContext
+      value: 
+      objectReference: {fileID: 11400000, guid: 749e17d5965eb4ca4ac055a6d5fb0e85, type: 2}
+    - target: {fileID: 8026957550961229323, guid: 99d702fcfd052483e99495024a53a63d, type: 3}
       propertyPath: opponentBattleInfo
       value: 
       objectReference: {fileID: 11400000, guid: d5c4c3d005139413881af9d80edef146, type: 2}

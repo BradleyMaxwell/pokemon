@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class SingleBattleManager : MonoBehaviour
@@ -8,6 +9,9 @@ public class SingleBattleManager : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        // set the active pokemon for each trainer as the first in their party
+        battleContext.PlayerActivePokemon = battleContext.PlayerBattleInfo.PokemonParty[0];
+        battleContext.OpponentActivePokemon = battleContext.OpponentBattleInfo.PokemonParty[0];
     }
 
     // Update is called once per frame

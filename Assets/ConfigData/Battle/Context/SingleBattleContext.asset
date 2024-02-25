@@ -14,3 +14,5 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerBattleInfo: {fileID: 11400000, guid: b410cb8a99bb14d78896c3c7562e4d03, type: 2}
   opponentBattleInfo: {fileID: 11400000, guid: d5c4c3d005139413881af9d80edef146, type: 2}
+  playerActivePokemon: {fileID: 11400000, guid: 0f2c45973215a48ee9b98e9ca0f1252c, type: 2}
+  opponentActivePokemon: {fileID: 11400000, guid: d952d1c39975b4123babb6ade22cf76f, type: 2}
