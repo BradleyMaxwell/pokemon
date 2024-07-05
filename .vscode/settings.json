@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "pokemon.sln"
+    "dotnet.defaultSolution": "pokemon2.sln"
 }
